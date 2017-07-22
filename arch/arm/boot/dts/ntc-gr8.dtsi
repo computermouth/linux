@@ -259,7 +259,7 @@
 					     "ahb_hstimer", "ahb_ve", "ahb_tve",
 					     "ahb_lcd", "ahb_csi", "ahb_de_be",
 					     "ahb_de_fe", "ahb_iep",
-					     "ahb_mp", "ahb_mali400";
+					     "ahb_mali400";
 		};
 
 		apb0_gates: clk@01c20068 {
